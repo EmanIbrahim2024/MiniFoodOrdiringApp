@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&family=Roboto+Condensed:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Quicksand", sans-serif;
+  line-height: 1.5;
+  padding: 0;
+  margin: 0;
+  color: #ebe7ef;
+  /* background: radial-gradient(#e8e8e8, #fff700); */
+  background-image: url('../data/bgb.png');
+  
+}
+
+
+.Top-background{
+  height: 35rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  box-shadow: 0px 10px 19px rgb(29, 23, 20);
+  
+
+}
+
+header .header-Container {
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-inline: 2rem;
+  align-items: center;
+  z-index: 10;
+  width: 100%;
+  
+
+}
+
+.header-Container button{
+  
+    padding: 0.6rem;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.3s;
+  box-shadow: 0px 10px 19px rgb(29, 23, 20);
+
+    margin: 1rem;}
+
+
+.Cartlight{
+  background-color: #e52f2c;
+  color: white;
+}
+.Cartdark{
+  background: linear-gradient(40deg, #000000, #000000, #000000, #807e78);
+  color: white;
+}
+
+main {
+  text-align: center;
+  margin-bottom: 3rem ;
+  padding: 10rem;
+}
+
+main img {
+  height: 5rem;
+  width: 30rem;
+  object-fit: cover;
+  
+}
+
+ main h1 {
+  margin: 0;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 5rem;
+  background: linear-gradient(40deg, #ff8000, #ff0800, #ffe203, #ffd503);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5));
+  text-align: center;
+}
+.menu {
+  margin: 2rem;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 4rem;
+  background: linear-gradient(40deg, #090705, #ff0800, #141202, #060502); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5));
+  text-align: center;
+  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5));
+  text-align: center;
+ 
+}
+
+
+
+
+
