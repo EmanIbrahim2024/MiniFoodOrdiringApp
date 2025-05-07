@@ -1,15 +1,11 @@
- 
- 
- 
- 
- [
+[
   {
     "id": 1,
     "name": "Double Beef Burger",
     "category": "burger",
     "description": "Two grilled beef patties with cheddar cheese, lettuce, tomato, and special sauce in a soft bun.",
     "price": 199,
-    "image": "/data/DoubleBeefBurger.jpg"
+    "image": "/src/assets/images/DoubleBeefBurger.jpg"
   },
   {
     "id": 7,
@@ -17,8 +13,7 @@
     "category": "fried_chicken",
     "description": "Golden-brown fried chicken with a seasoned crunchy coating and juicy meat.",
     "price": 153,
-    "image": "/data/CrispyFriedChicken.jpg"
-    
+    "image": "/src/assets/images/CrispyFriedChicken.jpg"
   },
   {
     "id": 3,
@@ -26,7 +21,7 @@
     "category": "burger",
     "description": "Grilled beef with smoked bacon, BBQ sauce, cheddar cheese, and onion rings.",
     "price": 179,
-    "image": "/data/BB.jpg"
+    "image": "/src/assets/images/BB.jpg"
   },
   {
     "id": 4,
@@ -34,7 +29,7 @@
     "category": "pizza",
     "description": "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil leaves.",
     "price": 134,
-    "image": "/data/MargheritaPizza.jpg"
+    "image": "/src/assets/images/MargheritaPizza.jpg"
   },
   {
     "id": 5,
@@ -42,7 +37,7 @@
     "category": "pizza",
     "description": "Mozzarella cheese and tomato sauce topped with spicy pepperoni slices.",
     "price": 167,
-    "image": "/data/istockphoto-521403691-612x612.jpg"
+    "image": "/src/assets/images/istockphoto-521403691-612x612.jpg"
   },
   {
     "id": 6,
@@ -50,7 +45,7 @@
     "category": "pizza",
     "description": "Grilled chicken, BBQ sauce, red onions, and mozzarella on a crispy crust.",
     "price": 190,
-    "image": "/data/BBQChickenPizza.jpg"
+    "image": "/src/assets/images/BBQChickenPizza.jpg"
   },
   {
     "id": 2,
@@ -58,8 +53,7 @@
     "category": "burger",
     "description": "Crispy chicken fillet with mayo, lettuce, and pickles in a fresh bun.",
     "price": 249,
-    "image": "/data/CrispyChickenBurger.jpg"
-   
+    "image": "/src/assets/images/CrispyChickenBurger.jpg"
   },
   {
     "id": 8,
@@ -67,7 +61,7 @@
     "category": "fried_chicken",
     "description": "Fried chicken wings tossed in a hot and tangy sauce, served with dip.",
     "price": 188,
-    "image": "/data/SpicyChickenWings.jpg"
+    "image": "/src/assets/images/SpicyChickenWings.jpg"
   },
   {
     "id": 9,
@@ -75,7 +69,7 @@
     "category": "fried_chicken",
     "description": "Crispy fried chicken tenders served with honey mustard dipping sauce.",
     "price": 219,
-    "image": "/data/images.jpg"
+    "image": "/src/assets/images/ChickenTenders.jpg"
   },
   {
     "id": 10,
@@ -83,7 +77,7 @@
     "category": "sides",
     "description": "Golden fried potato fries with a pinch of salt.",
     "price": 88,
-    "image": "/data/FrenchFries.JPG"
+    "image": "/src/assets/images/FrenchFries.JPG"
   },
   {
     "id": 11,
@@ -91,7 +85,7 @@
     "category": "sides",
     "description": "Spiral-cut seasoned fries with a crispy coating.",
     "price": 56,
-    "image": "/data/Curly.jpg"
+    "image": "/src/assets/images/Curly.jpg"
   },
   {
     "id": 12,
@@ -99,8 +93,6 @@
     "category": "sides",
     "description": "Breaded mozzarella sticks served with marinara dipping sauce.",
     "price": 92,
-    "image": "/data/Mozirlla.jpg"
+    "image": "/src/assets/images/Mozirlla.jpg"
   }
-
-
 ]

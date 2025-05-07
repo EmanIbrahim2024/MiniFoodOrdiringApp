@@ -10,20 +10,15 @@ html {
   padding: 0;
   margin: 0;
   color: #ebe7ef;
-  /* background: radial-gradient(#e8e8e8, #fff700); */
-  background-image: url('../data/bgb.png');
-  
+  background-image: url("./assets/Background.png");
 }
 
-
-.Top-background{
+.Top-background {
   height: 35rem;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
   box-shadow: 0px 10px 19px rgb(29, 23, 20);
-  
-
 }
 
 header .header-Container {
@@ -35,36 +30,33 @@ header .header-Container {
   align-items: center;
   z-index: 10;
   width: 100%;
-  
-
 }
 
-.header-Container button{
-  
-    padding: 0.6rem;
-    border: none;
-    border-radius: 10px;
-    font-weight: bold;
-    font-size: 1rem;
-    cursor: pointer;
-    transition: background 0.3s;
+.header-Container button {
+  padding: 0.6rem;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s;
   box-shadow: 0px 10px 19px rgb(29, 23, 20);
 
-    margin: 1rem;}
+  margin: 1rem;
+}
 
-
-.Cartlight{
+.Cartlight {
   background-color: #e52f2c;
   color: white;
 }
-.Cartdark{
+.Cartdark {
   background: linear-gradient(40deg, #000000, #000000, #000000, #807e78);
   color: white;
 }
 
 main {
   text-align: center;
-  margin-bottom: 3rem ;
+  margin-bottom: 3rem;
   padding: 10rem;
 }
 
@@ -72,10 +64,9 @@ main img {
   height: 5rem;
   width: 30rem;
   object-fit: cover;
-  
 }
 
- main h1 {
+main h1 {
   margin: 0;
   font-family: "Roboto Condensed", sans-serif;
   font-size: 5rem;
@@ -89,17 +80,11 @@ main img {
   margin: 2rem;
   font-family: "Roboto Condensed", sans-serif;
   font-size: 4rem;
-  background: linear-gradient(40deg, #090705, #ff0800, #141202, #060502); 
+  background: linear-gradient(40deg, #090705, #ff0800, #141202, #060502);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5));
   text-align: center;
   filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5));
   text-align: center;
- 
 }
-
-
-
-
-
